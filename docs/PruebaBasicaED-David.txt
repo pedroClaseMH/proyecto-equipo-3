@@ -1,0 +1,9 @@
+1-casos de prueba básicos que sabemos que funcionaran-> 3+8-> 11	0+0-> 0    7+7->14
+
+2- casos de prueba con números negativos-> 0-2 -> -2   	 -5-6-> -11 
+
+3- casos limites -> es decir inventar una suma que llegue justo al limite del valor que puede recoger un int 
+
+4-casos limites que sobrepasen ese limite que puede recoger un int 
+
+5- yo luego haría otras pruebas con números bastante grandes pero que no lleguen a ese limite marcado
