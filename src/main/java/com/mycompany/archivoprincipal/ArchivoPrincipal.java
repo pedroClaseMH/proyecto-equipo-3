@@ -12,5 +12,6 @@ public class ArchivoPrincipal {
 
     public static void main(String[] args) {
         System.out.println("SOMOS EL EQUIPO 3");//mostramos un mensaje por pantalla
+        System.out.println("realizado las pruebas basicas de funcionamiento");
     }
 }
