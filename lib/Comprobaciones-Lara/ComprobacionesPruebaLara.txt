@@ -1,0 +1,6 @@
+Comprobaciones para la clase Pruebas, donde se realiza una operación de suma con números enteros y devuelve un número entero.
+
+	1. Comprobar que la suma es correcta con uno de los números siendo 0.
+	2. Comprobar que si el número introducido NO es un número entero, te devuelve un mensaje de error.
+	3. Comprobar que si uno de los valores es null, te devuelve un mensaje de error.
+	4. Comprobar que si sumas números negativos la suma es correcta.
