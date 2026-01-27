@@ -6,4 +6,21 @@
 
 4-casos limites que sobrepasen ese limite que puede recoger un int 
 
+
 5- yo luego haría otras pruebas con números bastante grandes pero que no lleguen a ese limite marcado
+
+//------------METODO-----------
+public class Pruebas {
+
+    public static void main(String[] args) {
+        int a=3;
+        int b=8;
+        int c = suma(a,b);
+        
+        System.out.println("la suma es -> " +  c);
+    }
+    public static int suma(int a , int b){
+        return a+b;
+            
+    }
+}
