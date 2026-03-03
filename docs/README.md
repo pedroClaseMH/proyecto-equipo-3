@@ -12,4 +12,6 @@ En esta carpeta se encuentran documentos relacionados con el proyecto, como prue
 - **aral0896**: 
   - Archivo: pruebas-issue25.md
   - Descripción: Documento de pruebas de caja blanca y negra para el HTML de prueba en issue #25.
+  - Se han ejecutado todas las pruebas tanto en entorno local como visualizadas en GitHub.
+  - Todos los resultados son satisfactorios.
   - Fecha: 2026-03-03
