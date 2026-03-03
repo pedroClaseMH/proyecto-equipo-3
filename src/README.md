@@ -12,3 +12,8 @@ Aquí es donde el equipo debe:
 - No borrar archivos de otros compañeros sin avisar.
 - El código debe estar ordenado y comentado de forma básica.
 
+- **aral0896**: 
+  - Archivo: prueba-html-issue25.html
+  - Descripción: Página HTML simple de prueba para el issue #25. 
+    Incluye estructura básica, estilos CSS, contenido de ejemplo para verificar despliegue en GitHub, y una sección adicional con consejos útiles.
+  - Fecha: 2026-03-03
