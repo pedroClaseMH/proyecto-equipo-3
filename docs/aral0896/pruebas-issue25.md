@@ -15,3 +15,4 @@
 | 2  | Verificar responsividad | Redimensionar ventana a ancho móvil (<600px) | Layout se adapta, texto no se desborda, viewport funciona | Pasa | Probado en modo desarrollador del browser. |
 | 3  | Chequear visual de contenido | Scroll y ver secciones, lista de consejos | Todo legible, colores y padding correctos, sin elementos rotos | Pasa | Nueva lista se muestra bien estilizada. |
 | 4  | Probar en diferentes browsers | Abrir en Edge o otro | Mismo renderizado sin variaciones | Pasa | Compatible. |
+| 5  | Probar en modo oscuro del navegador | Activar modo oscuro en Chrome/Edge | La página se ve correctamente (colores legibles) | Pasa | Se adapta bien al tema del sistema. |
