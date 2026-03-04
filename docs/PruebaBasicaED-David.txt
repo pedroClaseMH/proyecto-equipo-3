@@ -1,0 +1,26 @@
+VALOR A         VALOR B         RESULTADO_ESPERADO
+8                4              12
+9               -4              5
+-4              -4              -8
+0                0              0
+0                4              4
+0                -8             -8
+
+Valores Limite ->-2,147,483,648  ->  2,147,483,647 -> con estos valores limites sumarlos 1/0/-1 y ver lo que ocurre en cada caso, como cambia al sumarle 1 al maximo y restarle 1 al minimo
+
+//------------METODO-----------
+public class Pruebas {
+
+    public static void main(String[] args) {
+        int a=3;
+        int b=8;
+        int c = suma(a,b);
+        
+        System.out.println("la suma es -> " +  c);
+    }
+    public static int suma(int a , int b){
+        return a+b;
+            
+    }
+}
+

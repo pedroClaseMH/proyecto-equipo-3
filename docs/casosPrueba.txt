@@ -1,0 +1,6 @@
+1. No añadir decimales, es decir que sea entero.
+2. Suma con un número negativo.
+3. Suma con dos números negativos.
+4. Suma con un cero.
+5. Suma con dos ceros.
+6. Comprobar el límite del valor integer.
